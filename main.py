@@ -40,8 +40,3 @@ if __name__ == "__main__":
     blockchain.add_block("Second Block")
     blockchain.add_block("Third Block")
     blockchain.print_chain()
-
-# Output:
-# Data: Genesis
-# Hash: 1f
-# Previous Hash: None
